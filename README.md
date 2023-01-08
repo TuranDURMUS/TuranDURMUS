@@ -1,6 +1,8 @@
-Hello Everyone.
-I'M Turan DURMUŞ. I'M food engineer M.Sc
-I am continuing my education on IT.
-I am taking full stack QA training.
-www.linkedin.com/in/turan-durmuş
-benturandurmus@hotmail.com
+<img src=""C:\Users\pc\OneDrive\Masaüstü\photo01.avif"">
+<h1 align="center">Hi Everyone,I'm Turan DURMUŞ</hi>
+ <h3 align="center"> Full Stack Automation Tester </h3>
+   <p align="justify"> I'm happy, QA Tester</p>
+<uı> 
+<li>www.linkedin.com/in/turan-durmuş</li>
+<li>benturandurmus@hotmail.com</li>
+</uı>
